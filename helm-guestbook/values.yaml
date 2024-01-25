@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: gcr.io//us-central1-docker.pkg.dev/responsive-amp-408809/my-repository/hello-cloudbuild@sha256:95b3710f32d1c7643c56ae31f8873f696faf16deb84e28254b408292098cc70c
+  repository: us-central1-docker.pkg.dev/responsive-amp-408809/my-repository/hello-cloudbuild
   tag: 0.1
   pullPolicy: IfNotPresent
 

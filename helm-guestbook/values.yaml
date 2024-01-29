@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: us-central1-docker.pkg.dev/responsive-amp-408809/my-repository/hello-cloudbuild:SHORT_SHA
-  tag: 0.1
+  repository: us-central1-docker.pkg.dev/responsive-amp-408809/my-repository/hello-cloudbuild
+  tag: SHORT_SHA
   pullPolicy: IfNotPresent
 
 containerPort: 3000

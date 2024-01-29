@@ -9,7 +9,7 @@ image:
   tag: 	latest
   pullPolicy: Always
 
-containerPort: 3000
+containerPort: 8080
 
 service:
   type: LoadBalancer

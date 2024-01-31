@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: us-central1-docker.pkg.dev/responsive-amp-408809/my-repository/hello-cloudbuild
+  repository: gcr.io/responsive-amp-408809/my-repository
   tag: 	latest
   pullPolicy: Always
 

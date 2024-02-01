@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: us-central1-docker.pkg.dev/responsive-amp-408809/my-repository/hello-cloudbuild
-  tag: 	0607ac2
+  tag: 	2362265
   pullPolicy: Always
 
 containerPort: 8080

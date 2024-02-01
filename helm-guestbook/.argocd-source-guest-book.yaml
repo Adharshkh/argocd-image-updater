@@ -1,7 +1,7 @@
 helm:
   parameters:
   - name: image.tag
-    value: "5250327"
+    value: "2362265"
     forcestring: true
   - name: image.name
     value: us-central1-docker.pkg.dev/responsive-amp-408809/my-repository/hello-cloudbuild

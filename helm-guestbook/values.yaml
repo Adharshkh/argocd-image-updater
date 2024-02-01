@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: gcr.io/responsive-amp-408809/my-repository
-  tag: 	latest
+  tag: 	
   pullPolicy: Always
 
 containerPort: 8080

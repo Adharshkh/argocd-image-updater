@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: gcr.io/responsive-amp-408809/my-repository
-  tag: 	a44a7c0
+  repository: us-central1-docker.pkg.dev/responsive-amp-408809/my-repository/hello-cloudbuild
+  tag: 	latest
   pullPolicy: Always
 
 containerPort: 8080
